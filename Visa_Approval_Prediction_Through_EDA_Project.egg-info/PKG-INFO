@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Visa-Approval-Prediction-Through-EDA-Project
+Version: 0.0.1
+Summary: Predicts if the United States Visa will get approved or not
+Author: BindhuA
+Requires-Dist: Flask
+Requires-Dist: gunicorn
+Requires-Dist: Jinja2
+Requires-Dist: Werkzeug
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: dnspython
+Requires-Dist: PyYAML
+Requires-Dist: dill
+Requires-Dist: imblearn

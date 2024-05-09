@@ -1,0 +1,12 @@
+Flask
+gunicorn
+Jinja2
+Werkzeug
+numpy
+pandas
+scikit-learn
+dnspython
+PyYAML
+dill
+imblearn
+-e .
